@@ -1,0 +1,26 @@
+{
+  "name": "mistbyte",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": " test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "   "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^2.0.3",
+    "sqlite3": "^3.0.5",
+    "express": "~4.0.0",
+    "serve-favicon": "*",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "jade": "*"
+  }
+}
